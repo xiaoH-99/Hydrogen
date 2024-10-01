@@ -109,15 +109,15 @@ skills:
       - name: Handwork
         description: ''
         percent: 90
-        icon: Cooking🥘, baking🥯, painting🎨, Lego🧩，pencraft🖋
+        icon: Cooking, baking, painting, Lego，pencraft
       - name: Sports
         description: ''
         percent: 90
-        icon: volleyball🏐️, skating⛸️, running🏃🏻‍♀️
+        icon: volleyball, skating, running
       - name: Photography
         description: ''
         percent: 80
-        icon: iphone📱 and camera📷
+        icon: iphone and camera
 
 languages:
   - name: Chinese
